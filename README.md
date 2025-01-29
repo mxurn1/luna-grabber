@@ -1,5 +1,5 @@
 # (Educational Purposes Only) Infortmation Grabber/Logger Tool
--
+Reuploaded due to Content Takedown as of 1/28/2025.
 
 
 # What it does:
